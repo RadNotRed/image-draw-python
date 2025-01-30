@@ -9,7 +9,7 @@ This program automates drawing by converting an image into mouse movements. You 
 
 ### **1. Clone the Repository**  
 ```sh
-git clone https://github.com/yourusername/image-draw-python.git
+git clone https://github.com/RadNotRed/image-draw-python.git
 cd image-draw-python
 ```
 
